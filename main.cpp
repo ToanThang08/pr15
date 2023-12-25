@@ -24,5 +24,10 @@ int main() {
         cout << "x1 = " << x1 << "\n";
         cout << "x2 = " << x2 << "\n";
     }
+    else if (delta == 0) {
+        double x = -b / (2 * a);
+        cout << "Phương trình có một nghiệm kép:\n";
+        cout << "x = " << x << "\n";
+    }
 
 }
