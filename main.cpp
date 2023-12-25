@@ -29,5 +29,10 @@ int main() {
         cout << "Phương trình có một nghiệm kép:\n";
         cout << "x = " << x << "\n";
     }
+    else {
+        cout << "Phương trình không có nghiệm thực.\n";
+    }
+
+    return 0;
 
 }
