@@ -13,4 +13,9 @@ int main() {
     cout << "Nhập hệ số c: ";
     cin >> c;
 
+    // Tính delta
+    double delta = b * b - 4 * a * c;
+
+
+
 }

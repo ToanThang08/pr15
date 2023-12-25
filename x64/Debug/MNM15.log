@@ -1,1 +1,11 @@
-﻿
+﻿  main.cpp
+D:\File code\MNM15\MNM15\main.cpp(9,13): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+D:\File code\MNM15\MNM15\main.cpp(9,13): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+D:\File code\MNM15\MNM15\main.cpp(9,13): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+D:\File code\MNM15\MNM15\main.cpp(11,13): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+D:\File code\MNM15\MNM15\main.cpp(11,13): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+D:\File code\MNM15\MNM15\main.cpp(11,13): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+D:\File code\MNM15\MNM15\main.cpp(13,13): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+D:\File code\MNM15\MNM15\main.cpp(13,13): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+D:\File code\MNM15\MNM15\main.cpp(13,13): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+  MNM15.vcxproj -> D:\File code\MNM15\x64\Debug\MNM15.exe
